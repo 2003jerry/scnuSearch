@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\c++数据结构实验代码\Search\Search\源.cpp(87): warning C4715: “BST::myDelete”: 不是所有的控件路径都返回值
+E:\c++数据结构实验代码\Search\Search\源.cpp(108): warning C4715: “BST::insert”: 不是所有的控件路径都返回值
+E:\c++数据结构实验代码\Search\Search\源.cpp(135): warning C4715: “BST::find”: 不是所有的控件路径都返回值
+  Search.vcxproj -> E:\c++数据结构实验代码\Search\Debug\Search.exe
